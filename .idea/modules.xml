@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BULab1.iml" filepath="$PROJECT_DIR$/BULab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BULab2/BULab2.iml" filepath="$PROJECT_DIR$/BULab2/BULab2.iml" />
     </modules>
   </component>
 </project>
